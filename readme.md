@@ -2,6 +2,9 @@
 ### C++ Programming – Level 1  
 ### RCC Programming Course
 
+
+Do the same steps as in the previous assignments, where you download the project as a zip file and extract it.
+
 This final assignment is designed to test your understanding of **functions**, **vectors**, **loops**, and **control statements** in C++. You will implement a fully-functional **Tic-Tac-Toe** game using starter code.
 
 You will be given:
@@ -147,7 +150,7 @@ Player X, enter your move (1-9): 7
 Player X wins!
 ```
 
-## Grading Rubric (Suggested)
+## Grading Rubric
 
 **Correctness — 50%**
 
@@ -168,3 +171,6 @@ Player X wins!
 
 - Clear variable names, consistent indentation, brief comments.
 
+## Turning it in
+
+You will do what you have done in all your labs and programming assignments. Take the project folder and compress it to a zip file. Submit the zip file.
