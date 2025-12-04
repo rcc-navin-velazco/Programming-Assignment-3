@@ -3,7 +3,8 @@
 ### RCC Programming Course
 
 
-Do the same steps as in the previous assignments, where you download the project as a zip file and extract it.
+Download the project as a zip file and extract it. Please read these instructions. Do not refer to previous assignments.
+READ THESE ASSIGNMENTS
 
 This final assignment is designed to test your understanding of **functions**, **vectors**, **loops**, and **control statements** in C++. You will implement a fully-functional **Tic-Tac-Toe** game using starter code.
 
@@ -75,7 +76,7 @@ You **must not** modify the function signatures in the header file.
 Compile:
 
 ```bash
-g++ main.cpp tictactoe.cpp -o tictactoe
+g++ main.cpp tic_tac_toe.cpp -o tictactoe
 ```
 Run:
 
@@ -88,7 +89,7 @@ Run:
 Compile:
 
 ```bash
-cl main.cpp tictactoe.cpp
+cl main.cpp tic_tac_toe.cpp
 ```
 Run:
 
